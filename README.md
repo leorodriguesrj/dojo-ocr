@@ -10,9 +10,11 @@ Mais sobre o problema [Bank OCR](https://codingdojo.org/kata/BankOCR/)
    - Java Extensions Pack (vscjava.vscode-java-pack)
 
 **canal de comunicação**
+
 E nos comunicando pelo canal
 [The Cake is a Lie - Discord](https://discord.gg/8RnmG4J)
 
 **dia e horário**
+
 Todas os sábados às 14h30min
 
